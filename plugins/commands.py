@@ -15,9 +15,9 @@ async def start(c, m):
 
  ** I am Stylish Font Generator **
 
-`I can help you to get stylish fonts. Just send me some text and see magic.
+`I can help you to get stylish fonts. Just send me some text and see magic.`
 
- ** \n\n♦️♦️ STEPS ♦️♦️\n     1. Send me some text\n     2. Select the font\n     3. Copy the Output ** `
+ ** \n\n♦️♦️ STEPS ♦️♦️\n     1. Send me some text\n     2. Select the font\n     3. Copy the Output ** 
 """
 
     # Buttons
